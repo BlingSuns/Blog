@@ -1,7 +1,7 @@
 ---
 title: 关 于
 ---
-![about](https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/images/about/cover.png)
+![about](https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/images/about/cover.jpg)
 
 ## 关于我
 - 喜欢听着李宗盛的歌撸代码快到而立之年的90后程序员！
