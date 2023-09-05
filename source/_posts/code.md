@@ -4,7 +4,7 @@ title: Code显示效果测试
 date: '2023-04-06 15:33'
 tag: Test
 categories: Test
-thumbnail: https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/images/posts/code/thumb.png
+thumbnail: https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/images/posts/code/thumb.png
 ---
 ```js
 // Returns a function, that, as long as it continues to be invoked, will not be triggered.

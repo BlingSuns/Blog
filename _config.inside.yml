@@ -103,7 +103,7 @@ profile:
   email:
 
   # You can set Avatar URL directly
-  avatar: https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/images/avatar.jpg
+  avatar: https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/images/avatar.jpg
 
   bio: '啥都折腾，啥都懂一点，只懂一点。。。'
 
@@ -327,7 +327,7 @@ data_prefix:
 data_dir:
 
 # Favicon, default to `favicon.ico`
-favicon: https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/images/favicon.svg
+favicon: https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/images/favicon.svg
 
 # Google analytics
 # ga: UA-00000000-0

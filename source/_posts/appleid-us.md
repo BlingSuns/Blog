@@ -4,7 +4,7 @@ title: 创建苹果美区Apple ID
 date: '2023-04-08 21:26'
 tag: Apple
 categories: 教程
-thumbnail: https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/images/posts/appleid-us/thumb.jpg
+thumbnail: https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/images/posts/appleid-us/thumb.jpg
 ---
 
 由于很多软件国区AppStore不提供下载，这时候有个外区Apple ID就很关键，下面我将教大家怎么创建一个自己的美区Apple ID。
