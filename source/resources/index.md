@@ -2,7 +2,7 @@
 title: 资 源
 ---
 
-![resources](https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/images/resources/cover.jpg)
+![resources](https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/images/resources/cover.jpg)
 ## PS:
 我收集了一些相关资源，以供交流学习使用。
 
@@ -25,13 +25,13 @@ iOS端的此类软件，国区都未上架，需要外区账号([**创建苹果�
     - [🔗Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118) -$2.99买断。<br>
 **总结：大体上是越贵的功能越丰富，自己详细了解后按需做选择。**
 2. Mac
-    - ClashX - [[🔗官方下载]](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg) [[🔗备用下载]](https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/software/ClashX.dmg) [[🔗ClashX Pro]](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
+    - ClashX - [[🔗官方下载]](https://github.com/yichengchen/clashX/releases/latest/download/ClashX.dmg) [[🔗备用下载]](https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/software/ClashX.dmg) [[🔗ClashX Pro]](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
     - [🔗Surge for Mac](https://www.nssurge.com) - iOS Surge同源软件，需要[外区账户](/posts/appleid-us)下载，除了贵哪都好，跟iOS版不共享订阅。<br>
 **Github打不开，可以尝试使用本站备用下载，速度也没有保证，爬墙后再去Github下载最新版**😂 
 3. Windows
-    - Clash for Windwos - [[🔗官方下载]](https://github.com/Fndroid/clash_for_windows_pkg/releases) [[🔗备用下载]](https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/software/cfw.7z)
-    - V2rayN - [[🔗官方下载]](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN.zip) [[🔗备用下载]](https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/software/v2rayN.zip)
+    - Clash for Windwos - [[🔗官方下载]](https://github.com/Fndroid/clash_for_windows_pkg/releases) [[🔗备用下载]](https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/software/cfw.7z)
+    - V2rayN - [[🔗官方下载]](https://github.com/2dust/v2rayN/releases/latest/download/v2rayN.zip) [[🔗备用下载]](https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/software/v2rayN.zip)
 4. Android
-    - Clash for Android - [[🔗官方下载]](https://github.com/Kr328/ClashForAndroid/releases) [[🔗备用下载]](https://cdn.suns.tk/gh/BlingSuns/Blog@master/backup/software/cfa.apk)
+    - Clash for Android - [[🔗官方下载]](https://github.com/Kr328/ClashForAndroid/releases) [[🔗备用下载]](https://cdn.xsuns.com/gh/BlingSuns/Blog@master/backup/software/cfa.apk)
 5. Router
     - Openclash - 版本众多，架构型号复杂，待写软路由教程时添加。
